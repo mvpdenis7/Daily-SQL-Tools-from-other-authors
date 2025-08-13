@@ -1,0 +1,9 @@
+Replication setup 
+-- Pull Subscription
+https://github.com/ReplTalk/ReplScripts/blob/master/AlwaysOn/SetupAGWithReplDefaultPortSameSubnetPullSub.sql
+
+--Push Subscription
+https://github.com/ReplTalk/ReplScripts/blob/master/AlwaysOn/SetupAGWithReplDefaultPortSameSubnetPushSub.sql
+
+-- More on  Replication?
+https://github.com/ReplTalk/ReplScripts
